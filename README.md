@@ -3,6 +3,7 @@
 <p>
 
   Meu Website é dividido em algumas áreas gerais, sendo elas principalmente as minhas áreas de interesse de estudo.
+  Nele você encontrará meu Curriculum Vitae, coisas técnicas, divertidas, códigos, piadas, poemas, orações, coisas sobre Deus, experimentos científicos legais e muito mais xD
 
   <br>
 
