@@ -22,7 +22,6 @@
   - :microscope: Há a área <b>Ciência</b>, onde brinco com experimentos legais.
 
 
-  Fique a vontade para navegar e se divertir.<br>
   Caso necessite, basta clicar aqui para acessar: <a href="https://melchisedech333.github.io/" >melchisedech333.github.io</a>
 
 </p>
