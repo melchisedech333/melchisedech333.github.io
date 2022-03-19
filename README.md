@@ -1,5 +1,8 @@
 ### Meu cantinho para postar as coisas que eu gosto ^_^
 
+![GitHub language count](https://img.shields.io/github/languages/count/melchisedech333/melchisedech333.github.io?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/melchisedech333/melchisedech333.github.io?style=for-the-badge)
+
 <p>
 
   Meu <i>website</i> é dividido em algumas áreas gerais, sendo elas principalmente as minhas áreas de interesse de estudo.
