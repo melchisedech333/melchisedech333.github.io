@@ -1,29 +1,31 @@
-### Meu cantinho para postar as coisas que gosto ^_^
+### Meu cantinho para postar as coisas que eu gosto ^_^
 
 <p>
 
-  Meu Website é dividido em algumas áreas gerais, sendo elas principalmente as minhas áreas de interesse de estudo.
+  Meu <i>website</i> é dividido em algumas áreas gerais, sendo elas principalmente as minhas áreas de interesse de estudo.
   Nele você encontrará meu Curriculum Vitae, coisas técnicas, divertidas, códigos, piadas, poemas, orações, coisas sobre Deus, experimentos científicos legais e muito mais xD
 
   <br>
+    <b>Essas são as áreas dele:</b>
+  <br>
 
-  Há o meu <b>Portfólio</b>, caso você queira ver meu Currículum Vitae.
+  - Há o meu <b>Portfólio</b>, caso você queira ver meu Currículum Vitae.
   
   <br>
   
-  Há a área <b>Cyber</b>, onde encontram-se meus projetos de software, códigos e brincadeirinhas do tipo.
+  - Há a área <b>Cyber</b>, onde encontram-se meus projetos de software, códigos e brincadeirinhas do tipo.
 
   <br>
 
-  Há a área <b>Deus</b>, onde posto coisas sobre meu Senhor Jesus Cristo s2
+  - Há a área <b>Deus</b>, onde posto coisas sobre meu Senhor Jesus Cristo s2
 
   <br>
 
-  Há a área <b>Poesia</b>, onde divago entre as palavras.
+  - Há a área <b>Poesia</b>, onde divago entre as palavras.
 
   <b>
 
-  Há a área <b>Ciência</b>, onde brinco com experimentos legais.
+  - Há a área <b>Ciência</b>, onde brinco com experimentos legais.
 
   <br>
 
