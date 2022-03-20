@@ -11,13 +11,25 @@ $(document).ready(function(){
 
     // Avança para div de conteúdo (usado na versão mobile para descer o scroll).
     $('.btn-arrow-mobile').on('click', function(){
-        var offset = $(".site-area-content").offset();
         $('html, body').animate({
-            scrollTop: offset.top,
-            scrollLeft: offset.left
-        }, 1000);
+            scrollTop: $(".area-port-content").offset().top
+        }, 500);
     });
 
+    // Scroll to Top. 
+    $(window).scroll(function() {
+        if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+            $('.scroll-to-top').fadeIn(200);    // Fade in the arrow
+        } else {
+            $('.scroll-to-top').fadeOut(200);   // Else fade out the arrow
+        }
+    });
+
+    $('.scroll-to-top').click(function() {      // When arrow is clicked
+        $('body,html').animate({
+            scrollTop: 0                        // Scroll to top of body
+        }, 500);
+    });
 });
 
 
