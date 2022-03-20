@@ -725,6 +725,14 @@ a.project-link:active {
     border-radius: 5px;
 }
 
+/* Separador de projeto. */
+.area-projects .area-projects-inner .project-separator {
+    width: 100%;
+    height: 100px;
+    /*margin-bottom: 40px;*/
+    /*border-bottom: solid 1px white;*/
+}
+
 /*
 ** Área do rodapé do portfólio.
 */
