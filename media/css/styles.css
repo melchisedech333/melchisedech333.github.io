@@ -1027,6 +1027,21 @@ a.post-link:active {
     .blog-top .menu {
         transform: scale(0.7);
     }
+
+    .blog-content .content-inner {
+        text-align: left;
+        width: calc(100% - 40px);
+        margin-top: 50px;
+        margin-left: 20px;
+        padding: 20px;
+        border-radius: 10px;
+        height: 100%;
+        margin-bottom: 100px;
+    }
+
+    .posts .post-item .post-image img {
+        margin-top: 20px;
+    }
 }
 
 
