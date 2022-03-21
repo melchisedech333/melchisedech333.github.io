@@ -1044,4 +1044,32 @@ a.post-link:active {
     }
 }
 
+/*
+** Estilos da página do post.
+*/
+
+.blog-content .post-article .post-title {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.blog-content .post-article .post-image img {
+    width: 100%;
+    height: 400px;
+}
+
+.blog-content .post-article .post-content {
+    margin-top: 30px;
+    text-align: justify;
+}
+
+@media only screen and (max-width: 1024px) {
+    .blog-content .post-article .post-image img {
+        height: 200px;
+    }
+}
+
 
