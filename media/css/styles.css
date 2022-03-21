@@ -837,6 +837,46 @@ a.item-link:active {
     text-decoration: none !important;
 }
 
+.post-link a:link {
+    text-decoration: none !important;
+    color: #07d8d2;
+}
+
+.post-link a:visited {
+    text-decoration: none !important;
+    color: #07d8d2;
+}
+
+.post-link a:hover {
+    text-decoration: none !important;
+    color: #07d8d2;
+}
+
+a.post-link:active {
+    text-decoration: none !important;
+    color: #07d8d2;
+}
+
+a.post-link:link {
+    text-decoration: none !important;
+    color: #07d8d2;
+}
+
+a.post-link:visited {
+    text-decoration: none !important;
+    color: #07d8d2;
+}
+
+a.post-link:hover {
+    text-decoration: none !important;
+    color: #07d8d2;
+}
+
+a.post-link:active {
+    text-decoration: none !important;
+    color: #07d8d2;
+}
+
 /* 
 ** Página inicial.
 */
@@ -931,6 +971,7 @@ a.item-link:active {
 }
 
 .posts .post-item {
+    display: block;
     width: 100%;
     margin-bottom: 70px;
     padding: 15px;
@@ -963,6 +1004,29 @@ a.item-link:active {
     width: 100%;
     text-align: center;
     margin-bottom: 20px;
+}
+
+/* Mobile. */
+.blog-top .description-mobile {
+    display: none;
+    font-size: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1024px) {
+    .blog-top .description {
+        display: none;
+    }
+
+    .blog-top .description-mobile {
+        display: block;
+    }
+
+    .blog-top .menu {
+        transform: scale(0.7);
+    }
 }
 
 
