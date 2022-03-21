@@ -819,6 +819,8 @@ a.project-link:active {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
+
+    box-shadow: 0 10px 50px black;
 }
 
 .blog-content {
@@ -826,7 +828,6 @@ a.project-link:active {
     top: 200px;
     left: 0;
     width: 100%;
-    background-color: green;
 }
 
 
