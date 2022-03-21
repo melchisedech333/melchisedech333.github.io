@@ -82,7 +82,7 @@
     height: 100%;
     z-index: 31336;
     font-family: 'Press Start 2P', cursive;
-    background-image: url(../../media/img/lain-1.jpg);
+    background-image: url(../../media/img/lain-3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
@@ -235,7 +235,7 @@
         top: calc(100% / 5);
         height: calc(100% / 5);
         width: 100%;
-        background-image: url(../../media/img/lain-2.jpg);
+        background-image: url(../../media/img/lain-4.jpg);
     }
 
     .site-main .c {
