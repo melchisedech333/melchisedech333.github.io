@@ -1,8 +1,8 @@
 [
     {
-        "title": "Post A",
+        "title": "Article A",
         "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
         "image": "../media/img/project-image.png",
-        "link": "post.html"
+        "link": "article-example.html"
     }
 ]
