@@ -98,8 +98,8 @@ a.post-link:active {
     display: inline-block;
     font-size: 12px;
     text-transform: uppercase;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     margin: 0;
     text-align: center;
     padding: 10px;
@@ -112,15 +112,15 @@ a.post-link:active {
 }
 
 .menu .item:hover {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 @media only screen and (max-width: 1024px) {
     .blog-top .menu {
         width: 100%;
         left: 0;
-        top: 160px;
+        top: 170px;
         transform: scale(1);
     }
 
@@ -129,7 +129,8 @@ a.post-link:active {
     }
 
     .blog-content {
-        top: 230px;
+        top: 210px;
+        margin-top: 0;
     }
 }
 
