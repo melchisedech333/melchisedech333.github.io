@@ -82,6 +82,19 @@ $(document).ready(function(){
         // Verifica se já chegou na última página.
         if ((globalMaxArticlesPerPage * globalCurrentPage) >= globalArticles.length)
             $('.btn-load-articles').css('display', 'none');
+
+        // Verifica se não existe artigos publicados.
+        if (articles.length <= 0) {
+            $('.posts').html(`
+                <center>
+                    <br><br>
+                    <span style='font-size:20px;' >
+                        Nenhum item publicado.
+                    </span>
+                    <br><br><br>
+                </center>
+            `);
+        }
     });
 
     // Carrega mais posts.
