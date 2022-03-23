@@ -27,7 +27,7 @@
 
 .menu .item {
     display: inline-block;
-    font-size: 9px;
+    font-size: 12px;
     text-transform: uppercase;
     background-color: #07d8d2;
     color: #202135;
@@ -38,7 +38,7 @@
     padding-right: 10px;
     cursor: pointer;
     min-width: 150px;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Eagle Lake', cursive;
     border-radius: 3px;
 }
 
