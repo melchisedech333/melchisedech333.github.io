@@ -42,7 +42,7 @@ var globalCurrentPage = 1;
 var globalArticles = [];
 
 $(document).ready(function(){
-    var jsonArticles = '../'+ environment +'/articles.json?rand='+ Math.floor(Math.random() * 31337);
+    var jsonArticles = '../'+ g_environment +'/'+ g_area +'.json?rand='+ Math.floor(Math.random() * 31337);
 
     // Carrega posts do blog e lista artigos da primeira página.
     $.get(jsonArticles, function(articles){
