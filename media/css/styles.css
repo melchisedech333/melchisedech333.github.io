@@ -110,7 +110,7 @@
     height: 100%;
     z-index: 31336;
     font-family: 'Adamina', serif;
-    background-image: url(../../media/img/homero-1.jpg);
+    background-image: url(../../media/img/empire-4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
@@ -253,7 +253,7 @@
         top: calc((100% / 5) * 3);
         height: calc(100% / 5);
         width: 100%;
-        background-image: url(../../media/img/homero-2.jpg);
+        background-image: url(../../media/img/empire-5.jpg);
     }
 
     .site-main .e {
