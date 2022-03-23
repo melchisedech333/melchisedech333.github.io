@@ -101,12 +101,16 @@ a.post-link:active {
     .blog-top .menu {
         width: 100%;
         left: 0;
-        top: 150px;
-        transform: scale();
+        top: 180px;
+        transform: scale(1);
     }
 
     .menu .item {
         margin-bottom: 5px;
+    }
+
+    .blog-content {
+        top: 290px;
     }
 }
 
