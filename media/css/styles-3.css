@@ -1,116 +1,44 @@
 
 /*
-** Correção de estilos da área: Deus.
+** Correção de estilos da área: Cyber.
 */
 
-.blog-content .content-inner {
-    background-color: rgba(0, 0, 0, 0.78);
-    color: white;
+/* width */
+::-webkit-scrollbar {
+    width: 7px;
 }
 
-.posts .post-item:hover {
-    background-color: rgba(117, 117, 117, 0.1);
+/* Track */
+::-webkit-scrollbar-track {
+    background: #444;
 }
 
-.post-link a:link {
-    text-decoration: none !important;
-    color: white;
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #01d3d2;
 }
 
-.post-link a:visited {
-    text-decoration: none !important;
-    color: white;
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #01d3d2;
 }
 
-.post-link a:hover {
-    text-decoration: none !important;
-    color: white;
-}
-
-a.post-link:active {
-    text-decoration: none !important;
-    color: white;
-}
-
-a.post-link:link {
-    text-decoration: none !important;
-    color: white;
-}
-
-a.post-link:visited {
-    text-decoration: none !important;
-    color: white;
-}
-
-a.post-link:hover {
-    text-decoration: none !important;
-    color: white;
-}
-
-a.post-link:active {
-    text-decoration: none !important;
-    color: white;
-}
-
-.site-content .blog-top .title {
-    font-family: 'Adamina', cursive;
-}
-
-.site-content .blog-top .description {
-    font-family: 'Adamina', cursive;
-    font-size: 15px;
-}
-
-.site-content .blog-top .description-mobile {
-    font-family: 'Adamina', cursive;
-    font-size: 17px;
-}
-
-.blog-top .menu {
+.site-content {
     position: absolute;
-    bottom: 0;
-    width: 1000px;
-    left: calc((100% - 1000px) / 2);
-    text-align: center;
-}
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 
-.menu .item {
-    display: inline-block;
-    font-size: 12px;
-    text-transform: uppercase;
-    background-color: #031d42;
+    background-image: url(../../media/img/slain-4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+
+    background-color: black;
     color: white;
-    margin: 0;
-    text-align: center;
-    padding: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    cursor: pointer;
-    min-width: 150px;
-    font-family: 'Adamina', cursive;
-    border-radius: 3px;
-}
-
-.menu .item:hover {
-    background-color: white;
-    color: #031d42;
-}
-
-@media only screen and (max-width: 1024px) {
-    .blog-top .menu {
-        width: 100%;
-        left: 0;
-        top: 190px;
-        transform: scale(1);
-    }
-
-    .menu .item {
-        margin-bottom: 5px;
-    }
-
-    .blog-content {
-        top: 290px;
-    }
+    
+    overflow: auto;
 }
 
 

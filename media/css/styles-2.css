@@ -113,4 +113,42 @@ a.post-link:active {
     }
 }
 
+/* width */
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #444;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #01d3d2;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #01d3d2;
+}
+
+.site-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    background-image: url(../../media/img/maria-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+
+    background-color: black;
+    color: white;
+    
+    overflow: auto;
+}
+
 
