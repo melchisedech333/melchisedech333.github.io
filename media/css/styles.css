@@ -1076,4 +1076,13 @@ a.post-link:active {
     }
 }
 
+.post-area-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    width: 100%;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
 
