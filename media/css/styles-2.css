@@ -9,8 +9,7 @@
 }
 
 .posts .post-item:hover {
-    background-color: rgba(255, 255, 255, 0.7);
-    color: black;
+    background-color: rgba(117, 117, 117, 0.1);
 }
 
 .post-link a:link {
