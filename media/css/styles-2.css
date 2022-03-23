@@ -3,6 +3,56 @@
 ** Correção de estilos da área: Deus.
 */
 
+.blog-content .content-inner {
+    background-color: rgba(0, 0, 0, 0.78);
+    color: white;
+}
+
+.posts .post-item:hover {
+    background-color: rgba(255, 255, 255, 0.7);
+    color: black;
+}
+
+.post-link a:link {
+    text-decoration: none !important;
+    color: white;
+}
+
+.post-link a:visited {
+    text-decoration: none !important;
+    color: white;
+}
+
+.post-link a:hover {
+    text-decoration: none !important;
+    color: white;
+}
+
+a.post-link:active {
+    text-decoration: none !important;
+    color: white;
+}
+
+a.post-link:link {
+    text-decoration: none !important;
+    color: white;
+}
+
+a.post-link:visited {
+    text-decoration: none !important;
+    color: white;
+}
+
+a.post-link:hover {
+    text-decoration: none !important;
+    color: white;
+}
+
+a.post-link:active {
+    text-decoration: none !important;
+    color: white;
+}
+
 .site-content .blog-top .title {
     font-family: 'Eagle Lake', cursive;
 }
@@ -29,8 +79,8 @@
     display: inline-block;
     font-size: 12px;
     text-transform: uppercase;
-    background-color: #07d8d2;
-    color: #202135;
+    background-color: #031d42;
+    color: white;
     margin: 0;
     text-align: center;
     padding: 10px;
@@ -44,6 +94,7 @@
 
 .menu .item:hover {
     background-color: white;
+    color: #031d42;
 }
 
 @media only screen and (max-width: 1024px) {
