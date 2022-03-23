@@ -1070,6 +1070,10 @@ a.post-link:active {
     .blog-content .post-article .post-image img {
         height: 200px;
     }
+
+    .blog-content .post-article .post-title {
+        text-align: center;
+    }
 }
 
 
