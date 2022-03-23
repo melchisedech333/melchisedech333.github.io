@@ -1072,22 +1072,4 @@ a.post-link:active {
     }
 }
 
-/*
-** Correção de estilos da área: Deus.
-*/
-
-.site-content .blog-top .title {
-    font-family: 'Eagle Lake', cursive;
-}
-
-.site-content .blog-top .description {
-    font-family: 'Eagle Lake', cursive;
-    font-size: 15px;
-}
-
-.site-content .blog-top .description-mobile {
-    font-family: 'Eagle Lake', cursive;
-    font-size: 17px;
-}
-
 

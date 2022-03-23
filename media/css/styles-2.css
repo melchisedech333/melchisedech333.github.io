@@ -1,0 +1,62 @@
+
+/*
+** Correção de estilos da área: Deus.
+*/
+
+.site-content .blog-top .title {
+    font-family: 'Eagle Lake', cursive;
+}
+
+.site-content .blog-top .description {
+    font-family: 'Eagle Lake', cursive;
+    font-size: 15px;
+}
+
+.site-content .blog-top .description-mobile {
+    font-family: 'Eagle Lake', cursive;
+    font-size: 17px;
+}
+
+.blog-top .menu {
+    position: absolute;
+    bottom: 0;
+    width: 1000px;
+    left: calc((100% - 1000px) / 2);
+    text-align: center;
+}
+
+.menu .item {
+    display: inline-block;
+    font-size: 9px;
+    text-transform: uppercase;
+    background-color: #07d8d2;
+    color: #202135;
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    min-width: 150px;
+    font-family: 'Press Start 2P', cursive;
+    border-radius: 3px;
+}
+
+.menu .item:hover {
+    background-color: white;
+}
+
+@media only screen and (max-width: 1024px) {
+    .blog-top .menu {
+        width: 100%;
+        left: 0;
+        top: 150px;
+        transform: scale();
+    }
+
+    .menu .item {
+        margin-bottom: 5px;
+    }
+}
+
+
