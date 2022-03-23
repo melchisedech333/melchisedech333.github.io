@@ -37,7 +37,7 @@ $(document).ready(function(){
 ** Controle do carregamento do JSON dos posts.
 */
 
-var globalMaxPostsPerPage = 2;
+var globalMaxPostsPerPage = 10; // Máximo de posts por página.
 var globalCurrentPage = 1;
 var globalPosts = [];
 
@@ -78,6 +78,10 @@ $(document).ready(function(){
 
             $('.posts').append(htmlPost);
         }
+
+        // Verifica se já chegou na última página.
+        if ((globalMaxPostsPerPage * globalCurrentPage) >= globalPosts.length)
+            $('.btn-load-posts').css('display', 'none');
     });
 
     // Carrega mais posts.
