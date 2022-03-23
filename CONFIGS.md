@@ -7,7 +7,10 @@
 
   - Os artigos mais recentes devem ficar no topo do arquivo <i>JSON</i>.
 
+  - No arquivo <b>articles.json</b> acima mencionado, há um parâmetro chamado <b>link</b>, que aponta para o arquivo HTML do artigo. O documento HTML exemplo possui o nome <b>article-example.html</b>. 
+
   - No arquivo <b>./core/main.js</b> há uma variável chamada <b>globalMaxArticlesPerPage</b>. A mesma trata-se do número máximo de artigos que devem ser listados por página.
+
 </p>
 
 
