@@ -1,3 +1,8 @@
 [
-    
+    {
+        "title": "Livrinho Orações para Deus",
+        "description": "Como eu gosto de escrever orações, acabou que chegou um momento em que eu havia escrito uma quantidade interessante de orações. De mode que pude fazer uma compilação de algumas dezenas de orações e assim gerar esse livro, onde o chamei de: Orações para Deus.",
+        "image": "./images/capa-1.jpg",
+        "link": "projects/oracoes-para-Deus.html"
+    }
 ]
