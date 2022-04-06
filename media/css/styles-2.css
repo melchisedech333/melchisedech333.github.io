@@ -159,4 +159,17 @@ a.post-link:active {
     font-size: 25px;
 }
 
+.project-img-01 {
+    width:200px;
+    float:right;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .project-img-01 {
+        width: 100px;
+    }
+}
+
 
