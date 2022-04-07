@@ -1,3 +1,8 @@
 [
-    
+    {
+        "title": "Recomendação de leitura",
+        "description": "Lista de livros meditativos, ótimos para realizar a lectio divina, bem como para meditar sobre as coisas de Deus.",
+        "image": "./images/old-books-436498_1280.jpg",
+        "link": "articles/recomendacoes-de-leitura.html"
+    }
 ]
