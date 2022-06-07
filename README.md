@@ -1,9 +1,14 @@
-### 🙃 Meu cantinho para postar as coisas que eu gosto ^_^
+
+<p align="center" >
+  
+  ### 🙃 Meu cantinho para postar as coisas que eu gosto ^_^
 
 ![Site](https://raw.githubusercontent.com/melchisedech333/melchisedech333.github.io/master/media/img/site-home-2.png)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/melchisedech333/melchisedech333.github.io?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/melchisedech333/melchisedech333.github.io?style=for-the-badge)
+
+</p>
 
 <p>
 
