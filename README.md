@@ -1,7 +1,6 @@
-
 <div align="center" >
-  
-  ### 🙃 Meu cantinho para postar as coisas que eu gosto ^_^
+
+  ### 🙃 My little corner to post things I love ^_^
 
 ![Site](https://raw.githubusercontent.com/melchisedech333/melchisedech333.github.io/master/media/img/site-home-2.png)
 
@@ -12,24 +11,25 @@
 
 <p>
 
-  Meu <i>website</i> é dividido em algumas áreas gerais, sendo elas principalmente as minhas áreas de interesse de estudo.
-  Nele você encontrará meu Curriculum Vitae, coisas técnicas, divertidas, códigos, piadas, poemas, orações, coisas sobre Deus, experimentos científicos legais e muito mais xD
+  Currently the texts are written in Brazilian Portuguese, but in the future I will also write them in English.
 
+  My <i>website</i> is divided into a few general areas, these being mainly my areas of study interest.
+  In it you will find my Curriculum Vitae, technical stuff, fun stuff, codes, jokes, poems, prayers, stuff about God, cool science experiments and much more xD
   
-  <b>Essas são as áreas dele:</b>
+  <b>Areas:</b>
 
-  - :man: Há o meu <b>Portfólio</b>, caso você queira ver meu Currículum Vitae.
+  - :man: <b>Portfólio</b>, To access my Curriculum Vitae.
 
-  - :computer: Há a área <b>Cyber</b>, onde encontram-se meus projetos de software, códigos e brincadeirinhas do tipo.
+  - :computer: <b>Cyber</b>, where are my software projects, codes and little jokes like that.
 
-  - :older_man: Há a área <b>Deus</b>, onde posto coisas sobre meu Senhor Jesus Cristo s2
+  - :older_man: <b>Deus</b>, where I post things about my Lord Jesus Christ s2
 
-  - :pencil2: Há a área <b>Poesia</b>, onde divago entre as palavras.
+  - :pencil2: <b>Poesia</b>, where I wander between the words.
 
-  - :microscope: Há a área <b>Ciência</b>, onde brinco com experimentos legais.
+  - :microscope: <b>Ciência</b>, where I play with cool experiments.
 
 
-  Acesse aqui: <a href="https://melchisedech333.github.io/" >melchisedech333.github.io</a>
+  Link: <a href="https://melchisedech333.github.io/" >melchisedech333.github.io</a>
 
 </p>
 
